@@ -1,0 +1,51 @@
+
+Technology Support I, Production Management
+Singapore
+Job Information
+
+    Job Identification 210569963
+    Job Category Technology Support
+    Business Unit Commercial & Investment Bank
+    Posting Date 10/28/2024, 04:27 PM
+    Locations One@Changi 1 Changi Business Park Central 1, One @ Changi City, Singapore, 486036, SG
+    Job Schedule Full time
+
+Job Description
+
+Embark on a dynamic career in tech support, where your skills contribute to maintaining world-class technology solutions to ensure a seamless user experience.
+
+As a Technology Support I team member in Corporate Investment Bank, you will ensure the operational stability, availability, and performance of our production application flows. Be part of the team responsible for troubleshooting, maintaining, identifying, escalating, and resolving production service interruptions for all internally and externally developed systems, ensuring a seamless user experience.
+
+Job responsibilities
+
+    Provide technical support on Securities Processing Applications to users.
+    Troubleshoot business issues, identifying root cause and solving problems to provide technical solutions to user teams in a timely manner.
+    Drive incident management process and facilitate blameless post-mortems. 
+    Automate manual operational work to improve efficiency in Securities Processing Environment.
+    Develop and support automation tooling to improve the reliability of the platform and the productivity of the team.
+    Work with development teams throughout the software life cycle ensuring sustainable software releases.
+    Perform analytics on incidents and usage patterns to better predict issues and take proactive action.
+    Take turns to work on weekend and bank holidays. Occasionally, work after office hours to provide support coverage to other regions.
+
+Required qualifications, capabilities, and skills
+
+    Bachelor’s Degree in Computer Science related disciplines
+    1+ years of experience or equivalent expertise in troubleshooting, resolving, and maintaining information technology services
+    Familiarity with applications or infrastructure in a large-scale technology environment on-premises or in the public cloud
+    SRE Experience in any Application framework is an advantage.
+    Technical Knowledge in Linux/Unix, Windows, Application and Infrastructure logs. 
+    Ability to work independently as a self-starter, and within a team environment. Comfortable in a fast dynamic environment with an ability to handle multiple tasks simultaneously. 
+    Knowledge in development toolset for software development and maintenance.
+    Knowledge in one or more general purpose programming languages, plus an interest in learning other coding languages and skills as needed. 
+    Experience or understanding of incident Management, Change Management best practices.
+    Good communication skills, both verbal and written, with the ability to clearly convey technical information while leading conference calls. 
+    Exposure to one or more general-purpose programming languages or automation scripting, and knowledge of ITIL Framework.
+
+
+ 
+About Us
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world’s most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+  
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+About the Team
+The Corporate & Investment Bank is a global leader across investment banking, wholesale payments, markets and securities services. The world’s most important corporations, governments and institutions entrust us with their business in more than 100 countries. We provide strategic advice, raise capital, manage risk and extend liquidity in markets around the world.
